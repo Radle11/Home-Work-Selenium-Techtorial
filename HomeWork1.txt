@@ -49,3 +49,10 @@ Click Purchase Flight Button
 Validate the current url is
 "http://blazedemo.com/confirmation.php"
 Validate title of page is "BlazeDemo Confirmation"
+
+Description of tasks:
+1
+2
+3
+4
+5

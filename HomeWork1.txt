@@ -14,3 +14,9 @@ Enter b - 17 on Two Input Fields
 Click Get Total button
 Validate the result is "Total a + b = 29"
 
+Task 3
+Navigate to "https://www.seleniumeasy.com/test/basicfirst-form-demo.html"
+Enter a - Chicago on Two Input Fields
+Enter b - Illinois Two Input Fields
+Click Get Total button
+Validate the result is "Total a + b = NaN"

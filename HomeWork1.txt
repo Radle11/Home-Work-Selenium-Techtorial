@@ -1,4 +1,8 @@
-Selenium Homework MockData
+Selenium Homework One
+
+-=Before Task=-
+1.Download Selenium 13.4
+2.Download Chrome Driver last version 
 
 -=Task 1=-
 

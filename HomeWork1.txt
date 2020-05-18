@@ -1,7 +1,16 @@
 Selenium Homework
+Task 1
 Navigate to "https://www.seleniumeasy.com/test/basicfirst-form-demo.html"
 Validate the title is equals to "Selenium Easy Demo - Simple
 Form to Automate using Selenium"
 Enter message "First Test Case" on single input field
 Click Show Message
 Validate the result is "Your Message: First Test Case"
+
+Task 2
+Navigate to "https://www.seleniumeasy.com/test/basicfirst-form-demo.html"
+Enter a - 12 on Two Input Fields
+Enter b - 17 on Two Input Fields
+Click Get Total button
+Validate the result is "Total a + b = 29"
+

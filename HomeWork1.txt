@@ -20,3 +20,26 @@ Enter a - Chicago on Two Input Fields
 Enter b - Illinois Two Input Fields
 Click Get Total button
 Validate the result is "Total a + b = NaN"
+
+Task 4
+Navigate to "https://www.seleniumeasy.com/test/basiccheckbox-demo.html"
+Click the checkbox on Single Checkbox Demo
+Validate the text "Success - Check box is checked" is
+displayed
+
+Task 5
+Navigate to "http://blazedemo.com/purchase.php"
+Enter Name "David"
+Enter Address "2000 E devon Ave"
+Enter City "Chicago"
+Enter State "Illinois"
+Enter ZipCode "60606"
+Enter Credit Card Number "4566998734522988"
+Enter Month 09
+Enter Year 2024
+Enter Name on Card "David Trump"
+Click Remember me check box
+Click Purchase Flight Button
+Validate the current url is
+"http://blazedemo.com/confirmation.php"
+Validate title of page is "BlazeDemo Confirmation"

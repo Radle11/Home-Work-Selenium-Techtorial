@@ -1,0 +1,7 @@
+Selenium Homework
+Navigate to "https://www.seleniumeasy.com/test/basicfirst-form-demo.html"
+Validate the title is equals to "Selenium Easy Demo - Simple
+Form to Automate using Selenium"
+Enter message "First Test Case" on single input field
+Click Show Message
+Validate the result is "Your Message: First Test Case"
